@@ -98,14 +98,20 @@ The project integrates multiple components:
 ---
 
 ## Output
-
+### User Interface
 ![WhatsApp Image 2024-12-29 at 15 38 04_f26796d9](https://github.com/user-attachments/assets/0632d00c-2983-4a19-830b-bebe56bdc9d1)
 
+![WhatsApp Image 2024-12-29 at 15 38 04_32fe017d](https://github.com/user-attachments/assets/0f928621-2ba7-4cdd-a312-2bbcdca652be)
+### Metamask
 ![WhatsApp Image 2024-12-29 at 15 35 47_cf5b6638](https://github.com/user-attachments/assets/2aee1093-bba1-47ba-859b-c7f231416fa0)
 
-![WhatsApp Image 2024-12-29 at 15 38 04_32fe017d](https://github.com/user-attachments/assets/0f928621-2ba7-4cdd-a312-2bbcdca652be)
 
+### File transfer
 ![WhatsApp Image 2024-12-29 at 15 38 04_e0fa1a66](https://github.com/user-attachments/assets/d8f61120-75b2-4105-bf53-482dcd29eb08)
+
+### Pinata for IPFS
+![WhatsApp Image 2025-01-26 at 22 05 21_34f48be1](https://github.com/user-attachments/assets/adcec7a6-b6b1-41ea-a143-f2edd658fc0e)
+
 
 
 ---
